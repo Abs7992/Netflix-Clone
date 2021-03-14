@@ -1,5 +1,5 @@
-#To check the Deployed App click on the link below: 
-https://netflix-clone-2c257.web.app/ - automatic!
+# To check the Deployed App click on the link below 
+
 NETFLIX_CLONE(https://netflix-clone-2c257.web.app/)
 
 # Getting Started with Create React App
